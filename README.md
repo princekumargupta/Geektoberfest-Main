@@ -23,11 +23,11 @@ GeektoberFest’20 is a 20 day long open source event running in parallel with t
 To add your pull requests, open `contributions` folder and in their add your own json file with **file name as your Github Username**. Please maintain the following format EXACTLY (replacing values where indicated):
 ```json
      {
-        "name" : "Participant Name",
-        "imageurl" : "https://sample-website/image.jpg",
-        "about" : "Hello I'm a web developer",
-        "facebook": "facebook-url",
-        "github" : "github-url",
+        "name" : "Prince Kumar Gupta",
+        "imageurl" : "https://www.facebook.com/photo?fbid=2661547987451736&set=a.1387549354851612",
+        "about" : "Hello I'm a aap developer and competitive programmer",
+        "facebook": "https://www.facebook.com/profile.php?id=100007896823792",
+        "github" : "https://github.com/princekumargupta",
         "prs": [
             "https://github.com/link/to/pr/1",
             "https://github.com/link/to/pr/2",
